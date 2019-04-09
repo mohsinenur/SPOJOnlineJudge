@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554690849 source:/home/nur/2K19/SPOJOnlineJudge/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
